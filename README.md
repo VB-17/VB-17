@@ -22,8 +22,6 @@
 <code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/808799193258655776/github.png"></code>
 
 
-<hr>
-
-<!-- ### My Stats
-
+<!-- <hr>
+### My Stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=VB-17&show_icons=true&hide_border=true&theme=radical) -->
