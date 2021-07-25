@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 👨‍🎓 I’m currently a student in Grade 11
+- 👨‍🎓 I’m currently a student in Grade 12
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on React Js Projects.
 - 📫 Reach out to me: [Instagram](https://www.instagram.com/_vb_.17/)
