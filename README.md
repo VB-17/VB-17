@@ -11,7 +11,7 @@
 
 <hr>
 
-<!--
+
 ### Languages and Tools
 <code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/808793940736212992/python.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"></code>
@@ -20,7 +20,7 @@
 <code><img height="25" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"></code>
 <code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/808798854626541618/git.png"></code>
 <code><img height="25" src="https://cdn.discordapp.com/attachments/754589249289977977/808799193258655776/github.png"></code>
-!-->
+!
 
 <!-- <hr>
 ### My Stats
