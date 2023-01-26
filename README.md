@@ -1,5 +1,5 @@
 # Hi, I am Varun Bhatt 👋
-
+<!-- 
 ### About Me
 
 - 👨‍🎓 I’m currently a student in Grade 12
@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am funny😂😂
 
-<hr>
+<hr> -->
 
 
 
